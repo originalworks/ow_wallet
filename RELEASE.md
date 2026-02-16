@@ -2,4 +2,5 @@
 
 1. Make sure you are on `master` branch
 2. Increase `version` in `Cargo.toml`
-3. `git tag [new value of version]` and then: `git push origin [new value of version]`
+3. Commit changes
+4. `git tag [new value of version]` and then: `git push origin [new value of version]`
