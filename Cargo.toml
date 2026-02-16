@@ -2,6 +2,11 @@
 name = "ow_wallet_adapter"
 version = "0.1.0"
 edition = "2024"
+license = "MIT OR Apache-2.0"
+description = "Original Works EVM wallet adapter library with KMS integration"
+repository = "https://github.com/originalworks/wallet_adapter"
+readme = "README.md"
+
 
 [dependencies]
 alloy = "1.6.3"
